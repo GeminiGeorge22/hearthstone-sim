@@ -9,9 +9,9 @@ Operated by **FMF Tools**.
 - Live site: https://hearthstone-sim.fmf-x402.workers.dev/
 - MCP endpoint (Streamable HTTP): https://hearthstone-sim.fmf-x402.workers.dev/mcp
 - Install page: https://hearthstone-sim.fmf-x402.workers.dev/install
-- Tools and prices: https://hearthstone-sim.fmf-x402.workers.dev/docs
+- Tools: https://hearthstone-sim.fmf-x402.workers.dev/docs
 
-No account is required. `tools/list`, deck check, and opening-hand odds are free. Paid sims are charged per successful call through MPP on Tempo or x402 on Base (USDC). Bad input is refused and is not charged.
+No account is required, and **every tool is free**: no payment, no wallet, no 402. (Blizzard's terms do not allow charging for features that use its data, so Hearthstone Sim has no paid tools.)
 
 ## Install
 
@@ -70,12 +70,12 @@ Settings → Apps & Connectors → Advanced settings → turn on Developer mode 
 |---|---|
 | hs_deck_check | free |
 | hs_opening_hand_odds | free |
-| hs_draw_odds | $0.001 |
-| hs_mulligan_odds | $0.001 |
-| hs_curve_goldfish | $0.003 |
+| hs_draw_odds | free |
+| hs_mulligan_odds | free |
+| hs_curve_goldfish | free |
 
 ## Licence and fan notice
 
-This repository is MIT licensed. Hearthstone Sim is an unofficial fan tool, not affiliated with or endorsed by Blizzard Entertainment. Hearthstone and card names are trademarks of Blizzard Entertainment. Card data comes from HearthstoneJSON. Card data tools are free. Paid tools sell only our own computation and return no card data.
+This repository is MIT licensed. Hearthstone Sim is an unofficial fan tool, not affiliated with or endorsed by Blizzard Entertainment. Hearthstone and card names are trademarks of Blizzard Entertainment. Card data comes from HearthstoneJSON. All tools are free; nothing is sold.
 
 Contact: fmf-tools@agentmail.to

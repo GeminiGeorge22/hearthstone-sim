@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.GeminiGeorge22/hearthstone-sim",
   "title": "Hearthstone Sim",
-  "description": "Hearthstone simulator: mulligan odds, curve goldfish, draw odds, free deck check.",
+  "description": "Hearthstone simulator (all tools free): mulligan odds, curve goldfish, draw odds, deck check.",
   "version": "1.0.0",
   "websiteUrl": "https://hearthstone-sim.fmf-x402.workers.dev/go/mcp-registry-hearthstone-sim",
   "remotes": [
