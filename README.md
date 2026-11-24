@@ -1,5 +1,7 @@
 # Hearthstone Sim
 
+[![hearthstone-sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/hearthstone-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/hearthstone-sim)
+
 Hearthstone Sim is a **Hearthstone simulator** you add to Claude, ChatGPT, Cursor, or VS Code. Paste a deck code and ask: Is this a legal Standard list? How often do I keep this card after mulligan? Goldfish this curve.
 
 Operated by **FMF Tools**.
