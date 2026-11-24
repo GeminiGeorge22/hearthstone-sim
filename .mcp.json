@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hearthstone-sim": {
+      "type": "http",
+      "url": "https://hearthstone-sim.fmf-x402.workers.dev/mcp"
+    }
+  }
+}
